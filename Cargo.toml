@@ -1,0 +1,15 @@
+[package]
+name = "wtf"
+version = "0.1.0"
+edition = "2021"
+description = "A CLI tool that provides insights about Git repositories in plain language"
+
+[dependencies]
+git2 = "0.17"
+clap = { version = "4.3", features = ["derive"] }
+reqwest = { version = "0.11", features = ["json", "blocking"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tokio = { version = "1.28", features = ["full"] }
+anyhow = "1.0"
+dotenv = "0.15"

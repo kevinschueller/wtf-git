@@ -1,0 +1,12 @@
+C:\Users\kevin\git\wtf-git\target\debug\deps\libanstyle-6c27d84ef9f7f6be.rmeta: C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\lib.rs C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\macros.rs C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\color.rs C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\effect.rs C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\reset.rs C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\style.rs
+
+C:\Users\kevin\git\wtf-git\target\debug\deps\libanstyle-6c27d84ef9f7f6be.rlib: C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\lib.rs C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\macros.rs C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\color.rs C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\effect.rs C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\reset.rs C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\style.rs
+
+C:\Users\kevin\git\wtf-git\target\debug\deps\anstyle-6c27d84ef9f7f6be.d: C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\lib.rs C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\macros.rs C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\color.rs C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\effect.rs C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\reset.rs C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\style.rs
+
+C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\lib.rs:
+C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\macros.rs:
+C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\color.rs:
+C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\effect.rs:
+C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\reset.rs:
+C:\Users\kevin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\style.rs:

@@ -1,0 +1,599 @@
+cargo:rerun-if-env-changed=LIBGIT2_NO_PKG_CONFIG
+cargo:rerun-if-env-changed=PKG_CONFIG_x86_64-pc-windows-msvc
+cargo:rerun-if-env-changed=PKG_CONFIG_x86_64_pc_windows_msvc
+cargo:rerun-if-env-changed=HOST_PKG_CONFIG
+cargo:rerun-if-env-changed=PKG_CONFIG
+cargo:rerun-if-env-changed=LIBGIT2_STATIC
+cargo:rerun-if-env-changed=LIBGIT2_DYNAMIC
+cargo:rerun-if-env-changed=PKG_CONFIG_ALL_STATIC
+cargo:rerun-if-env-changed=PKG_CONFIG_ALL_DYNAMIC
+cargo:rerun-if-env-changed=PKG_CONFIG_PATH_x86_64-pc-windows-msvc
+cargo:rerun-if-env-changed=PKG_CONFIG_PATH_x86_64_pc_windows_msvc
+cargo:rerun-if-env-changed=HOST_PKG_CONFIG_PATH
+cargo:rerun-if-env-changed=PKG_CONFIG_PATH
+cargo:rerun-if-env-changed=PKG_CONFIG_LIBDIR_x86_64-pc-windows-msvc
+cargo:rerun-if-env-changed=PKG_CONFIG_LIBDIR_x86_64_pc_windows_msvc
+cargo:rerun-if-env-changed=HOST_PKG_CONFIG_LIBDIR
+cargo:rerun-if-env-changed=PKG_CONFIG_LIBDIR
+cargo:rerun-if-env-changed=PKG_CONFIG_SYSROOT_DIR_x86_64-pc-windows-msvc
+cargo:rerun-if-env-changed=PKG_CONFIG_SYSROOT_DIR_x86_64_pc_windows_msvc
+cargo:rerun-if-env-changed=HOST_PKG_CONFIG_SYSROOT_DIR
+cargo:rerun-if-env-changed=PKG_CONFIG_SYSROOT_DIR
+cargo:rerun-if-env-changed=LIBGIT2_STATIC
+cargo:rerun-if-env-changed=LIBGIT2_DYNAMIC
+cargo:rerun-if-env-changed=PKG_CONFIG_ALL_STATIC
+cargo:rerun-if-env-changed=PKG_CONFIG_ALL_DYNAMIC
+cargo:rerun-if-env-changed=PKG_CONFIG_PATH_x86_64-pc-windows-msvc
+cargo:rerun-if-env-changed=PKG_CONFIG_PATH_x86_64_pc_windows_msvc
+cargo:rerun-if-env-changed=HOST_PKG_CONFIG_PATH
+cargo:rerun-if-env-changed=PKG_CONFIG_PATH
+cargo:rerun-if-env-changed=PKG_CONFIG_LIBDIR_x86_64-pc-windows-msvc
+cargo:rerun-if-env-changed=PKG_CONFIG_LIBDIR_x86_64_pc_windows_msvc
+cargo:rerun-if-env-changed=HOST_PKG_CONFIG_LIBDIR
+cargo:rerun-if-env-changed=PKG_CONFIG_LIBDIR
+cargo:rerun-if-env-changed=PKG_CONFIG_SYSROOT_DIR_x86_64-pc-windows-msvc
+cargo:rerun-if-env-changed=PKG_CONFIG_SYSROOT_DIR_x86_64_pc_windows_msvc
+cargo:rerun-if-env-changed=HOST_PKG_CONFIG_SYSROOT_DIR
+cargo:rerun-if-env-changed=PKG_CONFIG_SYSROOT_DIR
+cargo:rustc-cfg=libgit2_vendored
+libgit2/include\git2\annotated_commit.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\annotated_commit.h
+libgit2/include\git2\apply.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\apply.h
+libgit2/include\git2\attr.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\attr.h
+libgit2/include\git2\blame.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\blame.h
+libgit2/include\git2\blob.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\blob.h
+libgit2/include\git2\branch.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\branch.h
+libgit2/include\git2\buffer.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\buffer.h
+libgit2/include\git2\cert.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\cert.h
+libgit2/include\git2\checkout.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\checkout.h
+libgit2/include\git2\cherrypick.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\cherrypick.h
+libgit2/include\git2\clone.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\clone.h
+libgit2/include\git2\commit.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\commit.h
+libgit2/include\git2\common.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\common.h
+libgit2/include\git2\config.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\config.h
+libgit2/include\git2\credential.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\credential.h
+libgit2/include\git2\credential_helpers.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\credential_helpers.h
+libgit2/include\git2\cred_helpers.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\cred_helpers.h
+libgit2/include\git2\deprecated.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\deprecated.h
+libgit2/include\git2\describe.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\describe.h
+libgit2/include\git2\diff.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\diff.h
+libgit2/include\git2\email.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\email.h
+libgit2/include\git2\errors.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\errors.h
+libgit2/include\git2\experimental.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\experimental.h
+libgit2/include\git2\filter.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\filter.h
+libgit2/include\git2\global.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\global.h
+libgit2/include\git2\graph.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\graph.h
+libgit2/include\git2\ignore.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\ignore.h
+libgit2/include\git2\index.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\index.h
+libgit2/include\git2\indexer.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\indexer.h
+libgit2/include\git2\mailmap.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\mailmap.h
+libgit2/include\git2\merge.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\merge.h
+libgit2/include\git2\message.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\message.h
+libgit2/include\git2\net.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\net.h
+libgit2/include\git2\notes.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\notes.h
+libgit2/include\git2\object.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\object.h
+libgit2/include\git2\odb.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\odb.h
+libgit2/include\git2\odb_backend.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\odb_backend.h
+libgit2/include\git2\oid.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\oid.h
+libgit2/include\git2\oidarray.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\oidarray.h
+libgit2/include\git2\pack.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\pack.h
+libgit2/include\git2\patch.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\patch.h
+libgit2/include\git2\pathspec.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\pathspec.h
+libgit2/include\git2\proxy.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\proxy.h
+libgit2/include\git2\rebase.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\rebase.h
+libgit2/include\git2\refdb.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\refdb.h
+libgit2/include\git2\reflog.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\reflog.h
+libgit2/include\git2\refs.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\refs.h
+libgit2/include\git2\refspec.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\refspec.h
+libgit2/include\git2\remote.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\remote.h
+libgit2/include\git2\repository.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\repository.h
+libgit2/include\git2\reset.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\reset.h
+libgit2/include\git2\revert.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\revert.h
+libgit2/include\git2\revparse.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\revparse.h
+libgit2/include\git2\revwalk.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\revwalk.h
+libgit2/include\git2\signature.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\signature.h
+libgit2/include\git2\stash.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\stash.h
+libgit2/include\git2\status.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\status.h
+libgit2/include\git2\stdint.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\stdint.h
+libgit2/include\git2\strarray.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\strarray.h
+libgit2/include\git2\submodule.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\submodule.h
+libgit2/include\git2\sys\alloc.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\alloc.h
+libgit2/include\git2\sys\commit.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\commit.h
+libgit2/include\git2\sys\commit_graph.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\commit_graph.h
+libgit2/include\git2\sys\config.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\config.h
+libgit2/include\git2\sys\cred.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\cred.h
+libgit2/include\git2\sys\credential.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\credential.h
+libgit2/include\git2\sys\diff.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\diff.h
+libgit2/include\git2\sys\email.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\email.h
+libgit2/include\git2\sys\filter.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\filter.h
+libgit2/include\git2\sys\hashsig.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\hashsig.h
+libgit2/include\git2\sys\index.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\index.h
+libgit2/include\git2\sys\mempack.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\mempack.h
+libgit2/include\git2\sys\merge.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\merge.h
+libgit2/include\git2\sys\midx.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\midx.h
+libgit2/include\git2\sys\odb_backend.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\odb_backend.h
+libgit2/include\git2\sys\openssl.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\openssl.h
+libgit2/include\git2\sys\path.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\path.h
+libgit2/include\git2\sys\refdb_backend.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\refdb_backend.h
+libgit2/include\git2\sys\reflog.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\reflog.h
+libgit2/include\git2\sys\refs.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\refs.h
+libgit2/include\git2\sys\remote.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\remote.h
+libgit2/include\git2\sys\repository.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\repository.h
+libgit2/include\git2\sys\stream.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\stream.h
+libgit2/include\git2\sys\transport.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\sys\transport.h
+libgit2/include\git2\tag.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\tag.h
+libgit2/include\git2\trace.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\trace.h
+libgit2/include\git2\transaction.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\transaction.h
+libgit2/include\git2\transport.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\transport.h
+libgit2/include\git2\tree.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\tree.h
+libgit2/include\git2\types.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\types.h
+libgit2/include\git2\version.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\version.h
+libgit2/include\git2\worktree.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2\worktree.h
+libgit2/include\git2.h => C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\include\git2.h
+OPT_LEVEL = Some(3)
+TARGET = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\kevin\git\wtf-git\target\release\deps;C:\Users\kevin\git\wtf-git\target\release;C:\Users\kevin\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Program Files\PowerShell\7;C:\Python312\Scripts\;C:\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;c:\Users\kevin\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\GitHub CLI\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\PowerShell\7\;C:\Users\kevin\.cargo\bin;C:\Program Files\Google\Chrome\Application;C:\Python312\Scripts\;C:\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;c:\Users\kevin\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\PowerShell\7\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\GitHub CLI\;C:\Users\kevin\AppData\Local\pnpm;C:\Users\kevin\AppData\Local\Microsoft\WindowsApps;C:\Users\kevin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\kevin\AppData\Local\Programs\Ollama;C:\Users\kevin\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\kevin\AppData\Roaming\npm;C:\Users\kevin\AppData\Local\Programs\Windsurf\bin;C:\Users\kevin\AppData\Local\Programs\Trae\bin;c:\Users\kevin\AppData\Local\Programs\Trae\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+DEBUG = Some(false)
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+CARGO_ENCODED_RUSTFLAGS = Some()
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+annotated_commit.c
+apply.c
+attr.c
+blame.c
+attr_file.c
+attrcache.c
+blame_git.c
+blob.c
+branch.c
+buf.c
+cache.c
+checkout.c
+cherrypick.c
+clone.c
+commit.c
+commit_graph.c
+commit_list.c
+config.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+config_cache.c
+config_entries.c
+config_file.c
+config_mem.c
+config_parse.c
+config_snapshot.c
+crlf.c
+delta.c
+describe.c
+diff_file.c
+diff_driver.c
+diff_generate.c
+diff_parse.c
+diff.c
+diff_print.c
+diff_tform.c
+diff_stats.c
+diff_xdiff.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+email.c
+fetch.c
+fetchhead.c
+errors.c
+filter.c
+graph.c
+hashsig.c
+ident.c
+idxmap.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+ignore.c
+index.c
+iterator.c
+indexer.c
+libgit2.c
+mailmap.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+merge.c
+merge_driver.c
+message.c
+merge_file.c
+mwindow.c
+midx.c
+notes.c
+object.c
+netops.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+object_api.c
+odb.c
+odb_loose.c
+odb_mempack.c
+odb_pack.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+offmap.c
+oid.c
+oidarray.c
+pack-objects.c
+parse.c
+patch_generate.c
+patch.c
+oidmap.c
+pack.c
+patch_parse.c
+pathspec.c
+path.c
+proxy.c
+rebase.c
+push.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+refdb.c
+reader.c
+refdb_fs.c
+reflog.c
+refs.c
+refspec.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+remote.c
+reset.c
+repository.c
+revert.c
+revparse.c
+revwalk.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+signature.c
+stash.c
+status.c
+strarray.c
+submodule.c
+sysdir.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+threadstate.c
+tag.c
+trace.c
+trailer.c
+transaction.c
+transport.c
+tree-cache.c
+tree.c
+worktree.c
+alloc.c
+date.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+filebuf.c
+fs_path.c
+futils.c
+hash.c
+pool.c
+net.c
+posix.c
+pqueue.c
+rand.c
+regexp.c
+runtime.c
+sortedcache.c
+str.c
+strmap.c
+thread.c
+tsort.c
+utf8.c
+util.c
+varint.c
+vector.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+zstream.c
+wildmatch.c
+xemit.c
+xdiffi.c
+xhistogram.c
+xmerge.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+xpatience.c
+xprepare.c
+xutils.c
+auth.c
+auth_ntlm.c
+auth_negotiate.c
+credential.c
+credential_helpers.c
+git.c
+http.c
+httpclient.c
+local.c
+smart.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+smart_pkt.c
+smart_protocol.c
+ssh.c
+winhttp.c
+mbedtls.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+openssl.c
+openssl_dynamic.c
+openssl_legacy.c
+registry.c
+socket.c
+stransport.c
+tls.c
+http_parser.c
+pcre_chartables.c
+pcre_byte_order.c
+pcre_compile.c
+pcre_config.c
+pcre_dfa_exec.c
+pcre_exec.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+pcre_fullinfo.c
+pcre_get.c
+pcre_globals.c
+pcre_jit_compile.c
+pcre_maketables.c
+pcre_ord2utf8.c
+pcre_newline.c
+pcre_printint.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+pcre_refcount.c
+pcre_string_utils.c
+pcre_study.c
+pcre_tables.c
+pcre_ucd.c
+pcre_valid_utf8.c
+pcre_version.c
+pcre_xclass.c
+failalloc.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+pcreposix.c
+dir.c
+stdalloc.c
+error.c
+map.c
+path_w32.c
+precompiled.c
+thread.c
+posix_w32.c
+w32_buffer.c
+utf-conv.c
+w32_leakcheck.c
+w32_util.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+collisiondetect.c
+sha1.c
+ubc_check.c
+win32.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+cargo:rerun-if-env-changed=AR_x86_64-pc-windows-msvc
+AR_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=AR_x86_64_pc_windows_msvc
+AR_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+cargo:rerun-if-env-changed=HOST_ARFLAGS
+HOST_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64_pc_windows_msvc
+ARFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64-pc-windows-msvc
+ARFLAGS_x86_64-pc-windows-msvc = None
+cargo:rustc-link-lib=static=git2
+cargo:rustc-link-search=native=C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out\build
+cargo:root=C:\Users\kevin\git\wtf-git\target\release\build\libgit2-sys-177aa0bded476ef5\out
+cargo:rustc-link-lib=winhttp
+cargo:rustc-link-lib=rpcrt4
+cargo:rustc-link-lib=ole32
+cargo:rustc-link-lib=crypt32
+cargo:rerun-if-changed=libgit2/include
+cargo:rerun-if-changed=libgit2/src
+cargo:rerun-if-changed=libgit2/deps
