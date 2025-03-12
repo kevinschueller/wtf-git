@@ -1,1 +1,0 @@
-{"rustc":13800692020808712694,"features":"[]","declared_features":"[\"clap\", \"cli\"]","target":15428447746133145201,"profile":15657897354478470176,"path":5392312241781051283,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug\\.fingerprint\\dotenv-80f073e9ecee3d48\\dep-lib-dotenv","checksum":false}}],"rustflags":[],"config":2069994364910194474,"compile_kind":0}
