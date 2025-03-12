@@ -88,9 +88,10 @@ Contributions are welcome! Here's how you can help:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgements
 
 - OpenAI for providing the API that powers the natural language explanations
 - The Rust community for the excellent libraries and tools
+- My dear friend Kara for the idea 💖
